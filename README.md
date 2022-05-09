@@ -1,2 +1,3 @@
-# react_tetris
+# React Tetris
+
 Tetris game written in React
